@@ -1,44 +1,78 @@
 {
     "Pemain bola": [{
-        "category": "Pemain bola",
-        "club": "Chelsea",
-        "name": "Christian Pulisic"
-    }, {
-        "category": "Pemain bola",
-        "club": "Chelsea",
-        "name": "Willian"
-    }, {
-        "category": "Pemain bola",
-        "club": "Chelsea",
-        "name": "Jorginho"
-    }, {
-        "category": "Pemain bola",
-        "club": "Chelsea",
-        "name": "Jorginho"
-    }, {
-        "category": "Pemain bola",
-        "club": "Chelsea",
-        "name": "Pedro"
-    }, {
-        "category": "Pemain bola",
-        "club": "Chelsea",
-        "name": "Oliver Giroud"
-    }, {
-        "category": "Pemain bola",
-        "club": "Chelsea",
-        "name": "Jorginho"
-    }, {
-        "category": "Pemain bola",
-        "club": "Chelsea",
-        "name": "Pedro"
+        "Manchester City": [{
+            "category": "Pemain bola",
+            "club": "Manchester City",
+            "name": "Gabriel Jesus"
+        }, {
+            "category": "Pemain bola",
+            "club": "Manchester City",
+            "name": "Gundogan"
+        }, {
+            "category": "Pemain bola",
+            "club": "Manchester City",
+            "name": "David Silva"
+        }, {
+            "category": "Pemain bola",
+            "club": "Manchester City",
+            "name": "Fernandinho"
+        }, {
+            "category": "Pemain bola",
+            "club": "Manchester City",
+            "name": "Sergio Aguero"
+        }],
+        "Chelsea": [{
+            "category": "Pemain bola",
+            "club": "Chelsea",
+            "name": "Christian Pulisic"
+        }, {
+            "category": "Pemain bola",
+            "club": "Chelsea",
+            "name": "Willian"
+        }, {
+            "category": "Pemain bola",
+            "club": "Chelsea",
+            "name": "Jorginho"
+        }, {
+            "category": "Pemain bola",
+            "club": "Chelsea",
+            "name": "Jorginho"
+        }, {
+            "category": "Pemain bola",
+            "club": "Chelsea",
+            "name": "Pedro"
+        }, {
+            "category": "Pemain bola",
+            "club": "Chelsea",
+            "name": "Oliver Giroud"
+        }, {
+            "category": "Pemain bola",
+            "club": "Chelsea",
+            "name": "Jorginho"
+        }, {
+            "category": "Pemain bola",
+            "club": "Chelsea",
+            "name": "Pedro"
+        }]
     }],
     "Penceramah": [{
-        "category": "Penceramah",
-        "club": "NU",
-        "name": "Musa Hidayat"
-    }, {
-        "category": "Penceramah",
-        "club": "NU",
-        "name": "Aldi Somad"
+        "NU": [{
+            "category": "Penceramah",
+            "club": "NU",
+            "name": "Musa Hidayat"
+        }, {
+            "category": "Penceramah",
+            "club": "NU",
+            "name": "Aldi Somad"
+        }],
+        "Muhammadiyah": [{
+            "category": "Penceramah",
+            "club": "Muhammadiyah",
+            "name": "Abdul Hidayat"
+        }, {
+            "category": "Penceramah",
+            "club": "Muhammadiyah",
+            "name": "Abang satu"
+        }]
     }]
 }
