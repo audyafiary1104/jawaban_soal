@@ -1,0 +1,44 @@
+{
+    "Pemain bola": [{
+        "category": "Pemain bola",
+        "club": "Chelsea",
+        "name": "Christian Pulisic"
+    }, {
+        "category": "Pemain bola",
+        "club": "Chelsea",
+        "name": "Willian"
+    }, {
+        "category": "Pemain bola",
+        "club": "Chelsea",
+        "name": "Jorginho"
+    }, {
+        "category": "Pemain bola",
+        "club": "Chelsea",
+        "name": "Jorginho"
+    }, {
+        "category": "Pemain bola",
+        "club": "Chelsea",
+        "name": "Pedro"
+    }, {
+        "category": "Pemain bola",
+        "club": "Chelsea",
+        "name": "Oliver Giroud"
+    }, {
+        "category": "Pemain bola",
+        "club": "Chelsea",
+        "name": "Jorginho"
+    }, {
+        "category": "Pemain bola",
+        "club": "Chelsea",
+        "name": "Pedro"
+    }],
+    "Penceramah": [{
+        "category": "Penceramah",
+        "club": "NU",
+        "name": "Musa Hidayat"
+    }, {
+        "category": "Penceramah",
+        "club": "NU",
+        "name": "Aldi Somad"
+    }]
+}
